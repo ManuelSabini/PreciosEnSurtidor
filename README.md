@@ -18,3 +18,6 @@ Datasets utilizados:
 
 - Precios en surtidor: https://datos.gob.ar/dataset/energia-precios-surtidor---resolucion-3142016/archivo/energia_80ac25de-a44a-4445-9215-090cf55cfda5
 - IPC: https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_aperturas.xls
+
+Creado por Manuel Sabini
+Utilizando Datos Publicos de datos.gob.ar e Indec.
